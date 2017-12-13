@@ -17,12 +17,12 @@ import rosegraphics as rg
 
 def main():
     """ Runs several examples. """
-#     example1()
+    example1()
 #     example2()
 
 
 # ----------------------------------------------------------------------
-# TODO: 2.
+# DONE: 2.
 #  Step a:  READ the code in  example1.
 #
 #  Step b:  PREDICT what  example1  will print when it runs.
